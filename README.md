@@ -23,5 +23,13 @@ An output visualization showing
 1. Makro Extractor for S&P
 2. Makro Extractor for Bond Yields
 3. Makro Extractor for past inflations
-4. Devising the formula for the portfolio value at the certain point
-5. Devising the interface for the formula to detect which cells are blank with no info (ALWAYS needed to have at least two information) 
+
+## To-do for simpler version: 
+1. Calculate how much money to invest given the other parameters
+
+## To-do for advanced version: 
+1. Function: How much money to invest given the other parameters
+2. Function: What is the year of retirement given the other parameters
+3. Function: How much money can I spend in retirement given the other parameters
+4. Function: How many years can I spend in retirement given the other parameters
+5. Case function or input formula? Choose what to calculate => THE BEST VERSION => Evaluate the inputs and its possibility and give all above function one scenario
